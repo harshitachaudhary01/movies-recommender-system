@@ -28,7 +28,7 @@ The preprocessing steps, including cleaning the data, stemming with Porter Stemm
 
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/movie-recommender-system.git`
+1. Clone the repository: `git clone https://github.com/harshitachaudhary01/movie-recommender-system.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 
